@@ -1,0 +1,2 @@
+# GarageBandLite
+GarageBand Lite
